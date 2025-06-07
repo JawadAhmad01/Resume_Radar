@@ -1,0 +1,16 @@
+This is a test resume
+
+Name: John Doe
+Email: john@example.com
+
+Skills:
+- JavaScript
+- React
+- Node.js
+- TypeScript
+
+Work Experience:
+Software Engineer at ABC Inc
+2020-2023
+- Developed responsive web applications
+- Worked with cross-functional teams
